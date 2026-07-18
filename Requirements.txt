@@ -1,0 +1,32 @@
+# ==========================================
+# AI Reverse Vending Machine
+# Requirements
+# ==========================================
+
+# AI Object Detection Framework
+ultralytics>=8.2.0
+
+# Deep Learning Backend
+torch>=2.2.0
+torchvision>=0.17.0
+
+# Computer Vision
+opencv-python>=4.10.0
+
+# Numerical Computing
+numpy>=1.26.0
+
+# Desktop GUI
+PyQt5>=5.15.10
+
+# PDF Receipt Generation
+reportlab>=4.2.0
+
+# HTTP Requests (Future Mobile Integration)
+requests>=2.32.0
+
+# Local API Server (Optional)
+Flask>=3.0.0
+
+# Image Processing
+Pillow>=10.3.0
