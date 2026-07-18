@@ -1,0 +1,129 @@
+# ============================================================
+# AI Reverse Vending Machine
+# .gitignore
+# ============================================================
+
+# ----------------------------
+# Python Cache
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ----------------------------
+# Virtual Environments
+# ----------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# ----------------------------
+# Python Packaging
+# ----------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# ----------------------------
+# Environment Variables
+# ----------------------------
+.env
+.env.*
+
+# ----------------------------
+# IDE Settings
+# ----------------------------
+.vscode/
+.idea/
+*.code-workspace
+
+# ----------------------------
+# Operating System Files
+# ----------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ----------------------------
+# Log Files
+# ----------------------------
+*.log
+
+# ----------------------------
+# Temporary Files
+# ----------------------------
+*.tmp
+*.temp
+
+# ----------------------------
+# PDF Receipts (Generated)
+# ----------------------------
+receipt.pdf
+receipts/
+*.pdf
+
+# ----------------------------
+# Camera Captures / Screenshots (Generated)
+# ----------------------------
+captures/
+output/
+temp/
+
+# ----------------------------
+# Model Training Outputs
+# ----------------------------
+runs/
+
+# ----------------------------
+# Jupyter Notebooks
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# PyInstaller
+# ----------------------------
+build/
+dist/
+*.spec
+
+# ----------------------------
+# Test & Coverage
+# ----------------------------
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ----------------------------
+# SQLite Databases
+# ----------------------------
+*.db
+*.sqlite3
+
+# ----------------------------
+# macOS/Linux Metadata
+# ----------------------------
+.AppleDouble
+.LSOverride
+
+# ----------------------------
+# Windows Metadata
+# ----------------------------
+ehthumbs.db
+
+# ============================================================
+# KEEP THESE FILES
+# (Do NOT ignore)
+#
+# ✔ main.py
+# ✔ requirements.txt
+# ✔ README.md
+# ✔ LICENSE
+# ✔ assets/click.wav
+# ✔ assets/success.wav
+# ✔ screenshots/
+# ✔ docs/
+# ✔ model/rtdetr-l.pt (if included)
+# ============================================================
