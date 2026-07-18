@@ -3,7 +3,7 @@
 > An AI-powered Reverse Vending Machine that detects recyclable objects using computer vision and rewards users with eco-points and coupon codes. Built using Python, RT-DETR, OpenCV, and PyQt5.
 
 <p align="center">
-  <img src="C:\Users\aadar\Pictures\Screenshots\Screenshot 2026-07-18 135422.png">
+  <img src="screenshots/home.png" width="800" alt="Project Screenshot">
 </p>
 
 ---
